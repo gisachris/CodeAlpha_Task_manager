@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h3><b>webpack template</b></h3>
+  <h3><b>Task_manager</b></h3>
 
 </div>
 
@@ -10,7 +10,6 @@
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
@@ -28,39 +27,43 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-# 📖 [webpack template] <a name="about-project"></a>
+# 📖 [Task_manager] <a name="about-project"></a>
 
-this is a webpack environment and structure
+This is a task management web solution that provides users with the ability to track tasks and get reminders/notifications when their tasks are due.
 
-## 🛠 Built With <a name="built-with">html and css</a>
-
-### Tech Stack <a name="tech-stack">html and css</a>
-
-i buit this website using the html and css tech stack.
+## 🛠 Built With <a name="built-with">HTML, CSS, and Javascript</a>
 
 <details>
   <summary>structure</summary>
   <ul>
-    <li><a href="https://html.com/">html.com</a></li>
+    <li>html</li>
   </ul>
 </details>
 
 <details>
   <summary>styling</summary>
   <ul>
-    <li><a href="https://css.com/">css.com</a></li>
+    <li>css</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Functionality</summary>
+  <ul>
+    <li>Javascript</li>
   </ul>
 </details>
 
 ### Key Features <a name="key-features"></a>
 
--this is a webpack template
+- Provides task scheduling features.
+- sets reminders and Notifications for tasks.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-there is no live demo for this template
+A Live Demo has not yet been added.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -90,8 +93,9 @@ Clone this repository to your desired folder:
 Example commands:
 
 ```sh
-  cd my-folder
-  git clone https://github.com/gisachris/Webpack-template.git```
+  git clone https://github.com/gisachris/CodeAlpha_Task_manager.git
+  cd CodeAlpha_Task_manager
+```
 
 
 ### Install
@@ -103,6 +107,7 @@ Example command:
 
 ```sh
   node.js V16 and above
+  run npm install
 ```
 
 
@@ -142,7 +147,7 @@ Run "npx stylelint "**/*.{css,scss}" --fix " to fix linters
 
 -Twitter: https://twitter.com/_GisaChris
 
--LinkedIn: https://www.linkedin.com/in/gisa-chris-907948267/
+-LinkedIn: https://www.linkedin.com/in/gisa-chris/
 
 <span><b>project presentation</b></span>
 
@@ -152,7 +157,7 @@ no presentation is available for this project yet.
 
 ## 🔭 Future Features <a name="future-features"></a>
 
--adding more functionality to this template
+- Storing tasks with a backend database
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -168,19 +173,19 @@ Feel free to check the issues page: https://github.com/gisachris/Webpack-templat
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project consider viewing my other profiles and sending job inquiries. thank you
+If you like this project consider leaving a star and checking my other projects. thank you
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to everyone who helped this project come to life even though they may not have contributed directly to the code builds
+I would like to thank **CodeAlpha** for giving me this opportunity to grow my skills.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/gisachris/Webpack-template/blob/main/LICENSE) licensed.
+This project is [MIT](https://github.com/gisachris/CodeAlpha_Task_manager/blob/main/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
